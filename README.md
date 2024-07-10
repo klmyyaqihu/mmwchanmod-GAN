@@ -1,5 +1,6 @@
 # Multi-Freqeuncy Millimeter Wave Channel Modeling via Generative Adversarial Network
 * Sundeep Rangan, Yaqi Hu, Mingsheng Yin, William Xia, Marco Mezzavilla (NYU)
+* Hu, Y., Yin, M., Xia, W., Rangan, S. and Mezzavilla, M., 2022, October. Multi-frequency channel modeling for millimeter wave and thz wireless communication via generative adversarial networks. In 2022 56th Asilomar Conference on Signals, Systems, and Computers (pp. 670-676). IEEE.
 
 The work is extended from [mmwchanmod](https://github.com/nyu-wireless/mmwchanmod), and the major differences are:
 * Treat a links as clusters of paths
